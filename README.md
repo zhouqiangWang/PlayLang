@@ -1,6 +1,10 @@
 # PlayLang
 Play python.langchain.com to create some youtube creator.
 
-Instruction:
+### Instruction:
 1. https://python.langchain.com/docs/get_started/quickstart
 
+### Run
+```shell
+$streamlit run app.py
+```
